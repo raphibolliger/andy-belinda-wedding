@@ -1,16 +1,19 @@
 {
-"devDependencies": {
-  "gulp": "latest",
-  "gulp-sass": "latest",
-  "gulp-uglify": "latest",
-  "gulp-rename": "latest",
-  "gulp-notify": "latest",
-  "gulp-minify-css": "latest",
-  "gulp-concat": "latest",
-  "gulp-plumber": "latest",
-  "browser-sync": "latest",
-  "gulp-sourcemaps": "latest",
-  "gulp-autoprefixer": "latest",
-  "gulp-clean-css": "latest"
+  "type": "module",
+  "devDependencies": {
+    "browser-sync": "latest",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-minify-css": "latest",
+    "gulp-notify": "latest",
+    "gulp-plumber": "latest",
+    "gulp-rename": "latest",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "latest",
+    "gulp-uglify": "latest",
+    "node-fetch": "^2.6.1",
+    "sass": "^1.70.0"
   }
 }
