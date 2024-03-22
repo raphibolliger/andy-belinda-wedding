@@ -41,6 +41,11 @@ https://unsplash.com
 simplyCountdown
 http://vincentloy.github.io/simplyCountdown.js/
 
+COMPILE
+```
+gulp
+```
+
 START
 ```
 ws
