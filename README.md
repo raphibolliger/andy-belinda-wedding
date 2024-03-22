@@ -42,4 +42,12 @@ simplyCountdown
 http://vincentloy.github.io/simplyCountdown.js/
 
 START
+```
+ws
+```
+
+TAILWIND
+```
+npx tailwindcss -i ./scss/input.css -o ./scss/tailwind.css --watch
+```
 
